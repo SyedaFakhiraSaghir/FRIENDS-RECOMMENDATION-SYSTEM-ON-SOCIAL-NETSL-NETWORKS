@@ -1,0 +1,350 @@
+Top friend recommendations for Ali Ahmed:
+  Samina Tariq (Mutual Friends: 2)
+  Bilal Tariq (Mutual Friends: 2)
+  Mohsin Javed (Mutual Friends: 2)
+  Danish Ahmed (Mutual Friends: 2)
+  Faiza Imran (Mutual Friends: 1)
+
+Top friend recommendations for Hassan Zafar:
+  Kamran Khan (Mutual Friends: 3)
+  Shabbir Hussain (Mutual Friends: 3)
+  Maheen Ali (Mutual Friends: 2)
+  Bilal Shah (Mutual Friends: 2)
+  Saira Khan (Mutual Friends: 2)
+
+Top friend recommendations for Maheen Ali:
+  Hassan Zafar (Mutual Friends: 2)
+  Iqra Sohail (Mutual Friends: 1)
+  Sara Khan (Mutual Friends: 1)
+  Bilal Shah (Mutual Friends: 1)
+  Usman Shah (Mutual Friends: 1)
+
+Top friend recommendations for Iqra Sohail:
+  Adeel Sadiq (Mutual Friends: 3)
+  Usman Shah (Mutual Friends: 2)
+  Urooj Javed (Mutual Friends: 2)
+  Kamran Khan (Mutual Friends: 2)
+  Fatima Iqbal (Mutual Friends: 2)
+
+Top friend recommendations for Sara Khan:
+  Shabbir Hussain (Mutual Friends: 3)
+  Zain Ali (Mutual Friends: 2)
+  Fatima Iqbal (Mutual Friends: 2)
+  Nida Shah (Mutual Friends: 2)
+  Faizan Malik (Mutual Friends: 2)
+
+Top friend recommendations for Yasir Ahmed:
+  Bilal Shah (Mutual Friends: 5)
+  Kamran Khan (Mutual Friends: 4)
+  Usman Shah (Mutual Friends: 3)
+  Hamza Khan (Mutual Friends: 3)
+  Faizan Malik (Mutual Friends: 3)
+
+Top friend recommendations for Samina Tariq:
+  Ali Ahmed (Mutual Friends: 2)
+  Yasir Ahmed (Mutual Friends: 2)
+  Faiza Imran (Mutual Friends: 2)
+  Aftab Rehman (Mutual Friends: 2)
+  Usman Shah (Mutual Friends: 2)
+
+Top friend recommendations for Bilal Shah:
+  Yasir Ahmed (Mutual Friends: 5)
+  Adeel Sadiq (Mutual Friends: 4)
+  Urooj Javed (Mutual Friends: 3)
+  Kamran Khan (Mutual Friends: 3)
+  Zainab Rehman (Mutual Friends: 3)
+
+Top friend recommendations for Faiza Imran:
+  Yasir Ahmed (Mutual Friends: 2)
+  Samina Tariq (Mutual Friends: 2)
+  Ayesha Malik (Mutual Friends: 2)
+  Hamza Khan (Mutual Friends: 2)
+  Salman Khan (Mutual Friends: 2)
+
+Top friend recommendations for Aftab Rehman:
+  Danish Ahmed (Mutual Friends: 5)
+  Nida Shah (Mutual Friends: 4)
+  Bilal Tariq (Mutual Friends: 3)
+  Fatima Iqbal (Mutual Friends: 3)
+  Fariha Azhar (Mutual Friends: 3)
+
+Top friend recommendations for Usman Shah:
+  Yasir Ahmed (Mutual Friends: 3)
+  Bilal Tariq (Mutual Friends: 3)
+  Iqra Sohail (Mutual Friends: 2)
+  Samina Tariq (Mutual Friends: 2)
+  Ayesha Malik (Mutual Friends: 2)
+
+Top friend recommendations for Urooj Javed:
+  Bilal Shah (Mutual Friends: 3)
+  Fatima Iqbal (Mutual Friends: 3)
+  Zoya Shahid (Mutual Friends: 3)
+  Amna Rizvi (Mutual Friends: 3)
+  Iqra Sohail (Mutual Friends: 2)
+
+Top friend recommendations for Zain Ali:
+  Sara Khan (Mutual Friends: 2)
+  Bilal Shah (Mutual Friends: 2)
+  Aftab Rehman (Mutual Friends: 2)
+  Urooj Javed (Mutual Friends: 2)
+  Imran Hussain (Mutual Friends: 2)
+
+Top friend recommendations for Anwar Bukhari:
+  Yasir Ahmed (Mutual Friends: 2)
+  Bilal Shah (Mutual Friends: 2)
+  Ayesha Malik (Mutual Friends: 2)
+  Kamran Khan (Mutual Friends: 2)
+  Hamza Khan (Mutual Friends: 2)
+
+Top friend recommendations for Ayesha Malik:
+  Zoya Shahid (Mutual Friends: 3)
+  Faizan Malik (Mutual Friends: 3)
+  Samina Tariq (Mutual Friends: 2)
+  Faiza Imran (Mutual Friends: 2)
+  Usman Shah (Mutual Friends: 2)
+
+Top friend recommendations for Imran Hussain:
+  Imtiaz Ahmed (Mutual Friends: 3)
+  Usman Shah (Mutual Friends: 2)
+  Zain Ali (Mutual Friends: 2)
+  Tariq Ali (Mutual Friends: 2)
+  Asim Rehman (Mutual Friends: 2)
+
+Top friend recommendations for Bilal Tariq:
+  Mohsin Javed (Mutual Friends: 4)
+  Hira Shahid (Mutual Friends: 4)
+  Aftab Rehman (Mutual Friends: 3)
+  Usman Shah (Mutual Friends: 3)
+  Nida Shah (Mutual Friends: 3)
+
+Top friend recommendations for Kamran Khan:
+  Yasir Ahmed (Mutual Friends: 4)
+  Hassan Zafar (Mutual Friends: 3)
+  Bilal Shah (Mutual Friends: 3)
+  Hamza Khan (Mutual Friends: 3)
+  Adeel Sadiq (Mutual Friends: 3)
+
+Top friend recommendations for Tariq Ali:
+  Bilal Shah (Mutual Friends: 2)
+  Usman Shah (Mutual Friends: 2)
+  Zain Ali (Mutual Friends: 2)
+  Imran Hussain (Mutual Friends: 2)
+  Farhan Nasir (Mutual Friends: 2)
+
+Top friend recommendations for Fatima Iqbal:
+  Aftab Rehman (Mutual Friends: 3)
+  Urooj Javed (Mutual Friends: 3)
+  Nida Shah (Mutual Friends: 3)
+  Iqra Sohail (Mutual Friends: 2)
+  Sara Khan (Mutual Friends: 2)
+
+Top friend recommendations for Shahid Khan:
+  Imtiaz Ahmed (Mutual Friends: 3)
+  Yasir Ahmed (Mutual Friends: 2)
+  Aftab Rehman (Mutual Friends: 2)
+  Usman Shah (Mutual Friends: 2)
+  Kamran Khan (Mutual Friends: 2)
+
+Top friend recommendations for Mohsin Javed:
+  Bilal Tariq (Mutual Friends: 4)
+  Ali Ahmed (Mutual Friends: 2)
+  Yasir Ahmed (Mutual Friends: 2)
+  Bilal Shah (Mutual Friends: 2)
+  Fariha Azhar (Mutual Friends: 2)
+
+Top friend recommendations for Hina Batool:
+  Yasir Ahmed (Mutual Friends: 2)
+  Usman Shah (Mutual Friends: 2)
+  Bilal Tariq (Mutual Friends: 2)
+  Shahid Khan (Mutual Friends: 2)
+  Bilal Shah (Mutual Friends: 1)
+
+Top friend recommendations for Mehak Rana:
+  Fariha Azhar (Mutual Friends: 3)
+  Zain Ali (Mutual Friends: 2)
+  Nida Shah (Mutual Friends: 2)
+  Shabbir Hussain (Mutual Friends: 2)
+  Yasir Ahmed (Mutual Friends: 1)
+
+Top friend recommendations for Farhan Nasir:
+  Aftab Rehman (Mutual Friends: 2)
+  Kamran Khan (Mutual Friends: 2)
+  Tariq Ali (Mutual Friends: 2)
+  Hamza Khan (Mutual Friends: 2)
+  Ayesha Bibi (Mutual Friends: 2)
+
+Top friend recommendations for Hamza Khan:
+  Yasir Ahmed (Mutual Friends: 3)
+  Kamran Khan (Mutual Friends: 3)
+  Faiza Imran (Mutual Friends: 2)
+  Anwar Bukhari (Mutual Friends: 2)
+  Ayesha Malik (Mutual Friends: 2)
+
+Top friend recommendations for Zoya Shahid:
+  Urooj Javed (Mutual Friends: 3)
+  Ayesha Malik (Mutual Friends: 3)
+  Saira Khan (Mutual Friends: 3)
+  Iqra Sohail (Mutual Friends: 2)
+  Bilal Shah (Mutual Friends: 2)
+
+Top friend recommendations for Saira Khan:
+  Zoya Shahid (Mutual Friends: 3)
+  Hassan Zafar (Mutual Friends: 2)
+  Kamran Khan (Mutual Friends: 2)
+  Hira Shahid (Mutual Friends: 2)
+  Ali Ahmed (Mutual Friends: 1)
+
+Top friend recommendations for Nida Shah:
+  Aftab Rehman (Mutual Friends: 4)
+  Bilal Tariq (Mutual Friends: 3)
+  Fatima Iqbal (Mutual Friends: 3)
+  Danish Ahmed (Mutual Friends: 3)
+  Sara Khan (Mutual Friends: 2)
+
+Top friend recommendations for Asim Rehman:
+  Imran Hussain (Mutual Friends: 2)
+  Imtiaz Ahmed (Mutual Friends: 2)
+  Iqra Sohail (Mutual Friends: 1)
+  Bilal Shah (Mutual Friends: 1)
+  Aftab Rehman (Mutual Friends: 1)
+
+Top friend recommendations for Fariha Azhar:
+  Shabbir Hussain (Mutual Friends: 4)
+  Aftab Rehman (Mutual Friends: 3)
+  Mehak Rana (Mutual Friends: 3)
+  Zain Ali (Mutual Friends: 2)
+  Fatima Iqbal (Mutual Friends: 2)
+
+Top friend recommendations for Faizan Malik:
+  Yasir Ahmed (Mutual Friends: 3)
+  Ayesha Malik (Mutual Friends: 3)
+  Rabia Aslam (Mutual Friends: 3)
+  Sara Khan (Mutual Friends: 2)
+  Samina Tariq (Mutual Friends: 2)
+
+Top friend recommendations for Iram Sadiq:
+  Noreen Iqbal (Mutual Friends: 3)
+  Yasir Ahmed (Mutual Friends: 2)
+  Samina Tariq (Mutual Friends: 2)
+  Bilal Tariq (Mutual Friends: 2)
+  Hamza Khan (Mutual Friends: 2)
+
+Top friend recommendations for Rizwan Qureshi:
+  Hassan Zafar (Mutual Friends: 2)
+  Urooj Javed (Mutual Friends: 2)
+  Faizan Malik (Mutual Friends: 2)
+  Salman Khan (Mutual Friends: 2)
+  Shabbir Hussain (Mutual Friends: 2)
+
+Top friend recommendations for Imtiaz Ahmed:
+  Aftab Rehman (Mutual Friends: 3)
+  Imran Hussain (Mutual Friends: 3)
+  Shahid Khan (Mutual Friends: 3)
+  Danish Ahmed (Mutual Friends: 3)
+  Hira Shahid (Mutual Friends: 3)
+
+Top friend recommendations for Danish Ahmed:
+  Aftab Rehman (Mutual Friends: 5)
+  Nida Shah (Mutual Friends: 3)
+  Imtiaz Ahmed (Mutual Friends: 3)
+  Ali Ahmed (Mutual Friends: 2)
+  Sara Khan (Mutual Friends: 2)
+
+Top friend recommendations for Adeel Sadiq:
+  Bilal Shah (Mutual Friends: 4)
+  Iqra Sohail (Mutual Friends: 3)
+  Kamran Khan (Mutual Friends: 3)
+  Yasir Ahmed (Mutual Friends: 2)
+  Usman Shah (Mutual Friends: 2)
+
+Top friend recommendations for Shazia Imran:
+  Urooj Javed (Mutual Friends: 2)
+  Salman Khan (Mutual Friends: 2)
+  Ali Ahmed (Mutual Friends: 1)
+  Sara Khan (Mutual Friends: 1)
+  Bilal Shah (Mutual Friends: 1)
+
+Top friend recommendations for Salman Khan:
+  Kashan Ali (Mutual Friends: 3)
+  Faiza Imran (Mutual Friends: 2)
+  Usman Shah (Mutual Friends: 2)
+  Ayesha Malik (Mutual Friends: 2)
+  Hamza Khan (Mutual Friends: 2)
+
+Top friend recommendations for Kashan Ali:
+  Salman Khan (Mutual Friends: 3)
+  Usman Shah (Mutual Friends: 2)
+  Anwar Bukhari (Mutual Friends: 2)
+  Imtiaz Ahmed (Mutual Friends: 2)
+  Sara Khan (Mutual Friends: 1)
+
+Top friend recommendations for Saad Sheikh:
+  Yasir Ahmed (Mutual Friends: 2)
+  Bilal Shah (Mutual Friends: 2)
+  Bilal Tariq (Mutual Friends: 2)
+  Kamran Khan (Mutual Friends: 2)
+  Adeel Sadiq (Mutual Friends: 2)
+
+Top friend recommendations for Sana Ali:
+  Aftab Rehman (Mutual Friends: 2)
+  Bilal Tariq (Mutual Friends: 2)
+  Fatima Iqbal (Mutual Friends: 2)
+  Shahid Khan (Mutual Friends: 2)
+  Mohsin Javed (Mutual Friends: 2)
+
+Top friend recommendations for Rabia Iqbal:
+  Samina Tariq (Mutual Friends: 2)
+  Iram Sadiq (Mutual Friends: 2)
+  Ali Ahmed (Mutual Friends: 1)
+  Yasir Ahmed (Mutual Friends: 1)
+  Faiza Imran (Mutual Friends: 1)
+
+Top friend recommendations for Shabbir Hussain:
+  Fariha Azhar (Mutual Friends: 4)
+  Hassan Zafar (Mutual Friends: 3)
+  Sara Khan (Mutual Friends: 3)
+  Iqra Sohail (Mutual Friends: 2)
+  Bilal Shah (Mutual Friends: 2)
+
+Top friend recommendations for Zainab Rehman:
+  Bilal Shah (Mutual Friends: 3)
+  Hassan Zafar (Mutual Friends: 2)
+  Zoya Shahid (Mutual Friends: 2)
+  Imtiaz Ahmed (Mutual Friends: 2)
+  Shabbir Hussain (Mutual Friends: 2)
+
+Top friend recommendations for Noreen Iqbal:
+  Iram Sadiq (Mutual Friends: 3)
+  Iqra Sohail (Mutual Friends: 2)
+  Samina Tariq (Mutual Friends: 2)
+  Usman Shah (Mutual Friends: 2)
+  Ayesha Malik (Mutual Friends: 2)
+
+Top friend recommendations for Hira Shahid:
+  Bilal Tariq (Mutual Friends: 4)
+  Imtiaz Ahmed (Mutual Friends: 3)
+  Samina Tariq (Mutual Friends: 2)
+  Usman Shah (Mutual Friends: 2)
+  Zain Ali (Mutual Friends: 2)
+
+Top friend recommendations for Rabia Aslam:
+  Yasir Ahmed (Mutual Friends: 3)
+  Bilal Shah (Mutual Friends: 3)
+  Faizan Malik (Mutual Friends: 3)
+  Kamran Khan (Mutual Friends: 2)
+  Rizwan Qureshi (Mutual Friends: 2)
+
+Top friend recommendations for Amna Rizvi:
+  Urooj Javed (Mutual Friends: 3)
+  Bilal Shah (Mutual Friends: 2)
+  Ayesha Malik (Mutual Friends: 2)
+  Faizan Malik (Mutual Friends: 2)
+  Rabia Aslam (Mutual Friends: 2)
+
+Top friend recommendations for Ayesha Bibi:
+  Aftab Rehman (Mutual Friends: 3)
+  Faiza Imran (Mutual Friends: 2)
+  Farhan Nasir (Mutual Friends: 2)
+  Imtiaz Ahmed (Mutual Friends: 2)
+  Ali Ahmed (Mutual Friends: 1)
+

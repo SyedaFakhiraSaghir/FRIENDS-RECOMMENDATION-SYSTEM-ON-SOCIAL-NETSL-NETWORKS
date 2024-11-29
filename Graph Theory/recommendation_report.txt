@@ -1,0 +1,18 @@
+
+Friend Recommendation Report
+============================
+1. Total People Analyzed: 50
+2. People with Recommendations: 50 (100.00%)
+3. Total Recommendations Made: 250
+4. Average Recommendations Per Person: 5.00
+5. Most Frequently Recommended Friends:
+   1. Bilal Shah - Recommended 19 times
+   2. Yasir Ahmed - Recommended 17 times
+   3. Usman Shah - Recommended 15 times
+   4. Aftab Rehman - Recommended 13 times
+   5. Kamran Khan - Recommended 12 times
+   6. Bilal Tariq - Recommended 10 times
+   7. Samina Tariq - Recommended 9 times
+   8. Iqra Sohail - Recommended 9 times
+   9. Sara Khan - Recommended 9 times
+   10. Ayesha Malik - Recommended 9 times
